@@ -1,0 +1,1 @@
+A basic Rest Api in GO that handle a local data. 
